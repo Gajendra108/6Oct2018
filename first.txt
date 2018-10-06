@@ -2,4 +2,7 @@
 this is first file
 this is second edit
 WE ARE ADDING THIN FROM FEATURE 1
+
 We are adding this from master to creat aconlfict
+
+We are adding this in feature to creat conflict
